@@ -1,0 +1,252 @@
+.,
+. * {
+  box-sizing: border-box;
+}
+. {
+  background: #ffffff;
+  width: 536px;
+  height: 627px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-2 {
+  background: #789133;
+  width: 205px;
+  height: 627px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.rectangle-1 {
+  border-radius: 51px;
+  width: 152px;
+  height: 149px;
+  position: absolute;
+  right: 358px;
+  bottom: 467px;
+}
+.salamandra-merry {
+  color: #000000;
+  text-align: left;
+  font: 400 24px "Istok Web", sans-serif;
+  position: absolute;
+  left: 268px;
+  top: 11px;
+}
+.line-1 {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px 0 0 0;
+  width: 310.01px;
+  height: 0px;
+  position: absolute;
+  left: 226px;
+  top: 41px;
+}
+.adress {
+  color: #ffffff;
+  text-align: left;
+  font: 700 16px "Istok Web", sans-serif;
+  position: absolute;
+  left: 12px;
+  top: 221px;
+}
+.rectangle-3 {
+  background: #35791d;
+  width: 205px;
+  height: 40px;
+  position: absolute;
+  left: 0px;
+  top: 173px;
+}
+.ontact {
+  color: #ffffff;
+  text-align: left;
+  font: 400 24px "Istok Web", sans-serif;
+  position: absolute;
+  left: 4px;
+  top: 179px;
+  width: 111px;
+  height: 29px;
+}
+.e-mail {
+  color: #ffffff;
+  text-align: left;
+  font: 700 16px "Istok Web", sans-serif;
+  position: absolute;
+  left: 11px;
+  top: 341px;
+}
+.phone {
+  color: #ffffff;
+  text-align: left;
+  font: 700 16px "Istok Web", sans-serif;
+  position: absolute;
+  left: 11px;
+  top: 281px;
+}
+.rectangle-4 {
+  background: #35791d;
+  width: 205px;
+  height: 40px;
+  position: absolute;
+  left: 0px;
+  top: 407px;
+}
+.skills {
+  color: #ffffff;
+  text-align: left;
+  font: 400 24px "Istok Web", sans-serif;
+  position: absolute;
+  left: 4px;
+  top: 412px;
+}
+.oslo-40395-norway {
+  color: #ffffff;
+  text-align: left;
+  font: 400 16px "Istok Web", sans-serif;
+  position: absolute;
+  left: 12px;
+  top: 250px;
+}
+._3859103854587 {
+  color: #ffffff;
+  text-align: left;
+  font: 400 16px "Istok Web", sans-serif;
+  position: absolute;
+  left: 11px;
+  top: 311px;
+}
+.salamandra-m-gmail-com {
+  color: #ffffff;
+  text-align: left;
+  font: 400 16px "Istok Web", sans-serif;
+  position: absolute;
+  left: 11px;
+  top: 371px;
+}
+.as-a-web-designer-my-objective-is-to-make-a-positive-impact-on-clients-co-workers-and-the-internet-using-my-skills-and-experience-to-design-compelling-and-attractive-websites {
+  color: #000000;
+  text-align: left;
+  font: 400 italic 16px "Istok Web", sans-serif;
+  position: absolute;
+  left: 231px;
+  top: 56px;
+  width: 300px;
+  height: 104px;
+}
+.work-experience {
+  color: #000000;
+  text-align: left;
+  font: 700 20px "Istok Web", sans-serif;
+  position: absolute;
+  left: 361px;
+  top: 192px;
+}
+.line-2 {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px 0 0 0;
+  width: 310.01px;
+  height: 0px;
+  position: absolute;
+  left: 226px;
+  top: 221px;
+}
+.html-5-css-3-java-script-photoshop-git {
+  color: #ffffff;
+  text-align: left;
+  font: 400 16px "Istok Web", sans-serif;
+  position: absolute;
+  left: 10px;
+  top: 455px;
+  width: 122px;
+  height: 122px;
+}
+._03-2021-08-2021 {
+  color: #000000;
+  text-align: left;
+  font: 400 16px "Istok Web", sans-serif;
+  position: absolute;
+  left: 392px;
+  top: 232px;
+}
+.web-designer-bns-technology-checking-for-errors-and-de-bugging-websites-client-interaction-about-the-project-making-the-website-responsive {
+  color: #000000;
+  text-align: left;
+  font: 400 15px "Istok Web", sans-serif;
+  position: absolute;
+  left: 207px;
+  top: 259px;
+  width: 327px;
+  height: 89px;
+}
+.web-designer-bns-technology-checking-for-errors-and-de-bugging-websites-client-interaction-about-the-project-making-the-website-responsive-span {
+  color: #000000;
+  font: 400 15px "Istok Web", sans-serif;
+}
+.web-designer-bns-technology-checking-for-errors-and-de-bugging-websites-client-interaction-about-the-project-making-the-website-responsive-span2 {
+  color: #000000;
+  font: 400 15px "Istok Web", sans-serif;
+}
+.education {
+  color: #000000;
+  text-align: left;
+  font: 700 20px "Istok Web", sans-serif;
+  position: absolute;
+  left: 428px;
+  top: 520px;
+}
+.senior-combat-designer-hoyovers-company-player-combat-mechanics-weapons-and-abilities-enemy-behavior-abilities-and-weapons-other-core-player-systems-such-as-camera-interaction-and-traversal {
+  color: #000000;
+  text-align: left;
+  font: 400 15px "Istok Web", sans-serif;
+  position: absolute;
+  left: 207px;
+  top: 381px;
+  width: 323px;
+  height: 132px;
+}
+.senior-combat-designer-hoyovers-company-player-combat-mechanics-weapons-and-abilities-enemy-behavior-abilities-and-weapons-other-core-player-systems-such-as-camera-interaction-and-traversal-span {
+  color: #000000;
+  font: 400 15px "Istok Web", sans-serif;
+}
+.senior-combat-designer-hoyovers-company-player-combat-mechanics-weapons-and-abilities-enemy-behavior-abilities-and-weapons-other-core-player-systems-such-as-camera-interaction-and-traversal-span2 {
+  color: #000000;
+  font: 400 15px "Istok Web", sans-serif;
+}
+._12-2021-03-2023 {
+  color: #000000;
+  text-align: left;
+  font: 400 16px "Istok Web", sans-serif;
+  position: absolute;
+  left: 392px;
+  top: 353px;
+}
+.line-3 {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px 0 0 0;
+  width: 310.01px;
+  height: 0px;
+  position: absolute;
+  left: 231px;
+  top: 549px;
+}
+.web-design-ie-university-madrid-spain {
+  color: #000000;
+  text-align: left;
+  font: 400 15px "Istok Web", sans-serif;
+  position: absolute;
+  left: 212px;
+  top: 590px;
+  width: 288px;
+}
+._08-2015-06-2020 {
+  color: #000000;
+  text-align: left;
+  font: 400 16px "Istok Web", sans-serif;
+  position: absolute;
+  left: 398px;
+  top: 560px;
+}
